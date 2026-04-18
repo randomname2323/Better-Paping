@@ -49,6 +49,9 @@ go get github.com/fatih/color
 go build -o betterpaping.exe betterpaping.go
 ```
 
----
+## 📜 License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 *Built with ❤️ by RandomName*
